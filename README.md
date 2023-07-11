@@ -40,8 +40,6 @@
 <br>
 参考にさせていただきましたサイトです。
 <br>
-勉強になりました。ありがとうございます。
-<br>
 <br>
 
 https://hira.page/blog/201809_chrome-stylize
