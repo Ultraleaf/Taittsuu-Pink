@@ -11,7 +11,10 @@ Chorme 拡張機能を使ってタイッツーのサイトのカラーを変え�
 <br>
 <br>
 <br>
+
 【簡単な拡張機能のインストール手順】
+
+
 
 1 Download this repo as a ZIP file from GitHub.
 
