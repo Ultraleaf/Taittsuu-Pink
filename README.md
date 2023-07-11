@@ -5,6 +5,8 @@
 <br>
 
 【拡張機能の使い方】
+<br>
+<br>
 
 1. Githubページの「Code」ボタンをクリックして、Download Zipを選択します。
 
