@@ -1,4 +1,5 @@
-![change](https://github.com/Ultraleaf/Taittsuu-chrome_addon/assets/138953741/449a21f9-33af-433d-93da-4ba8a03276d6)
+![pink sakura](https://github.com/Ultraleaf/Taittsuu-chrome_addon/assets/138953741/699a2f12-6f4b-4fa9-a09e-7b96106b396a)
+
 <br>
 <br>
 <br>
@@ -8,6 +9,7 @@
 <br>
 <br>
 <br>
+
 
 
 
