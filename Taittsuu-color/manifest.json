@@ -1,0 +1,14 @@
+ {
+   "name": "taittsuu-css",
+   "author": "taka sandesuyo",
+   "description": "chrome extension for taittsuu-color",
+   "version": "1.0.0",
+   "manifest_version": 3,
+   "permissions": ["storage"],
+   "content_scripts": [
+    {
+      "matches": ["https://taittsuu.com/home/*","https://taittsuu.com/users/*","https://taittsuu.com/publictimeline/*"],
+      "css": ["taittsuu/style.css"]
+    }
+  ]
+}
